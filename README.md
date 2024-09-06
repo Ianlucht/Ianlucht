@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ian Lucht
-- 💻 I am a Third year computer science major at CSU
+- 💻 I am a Fourth year computer science major at CSU
 - 📬 I'm always interested in new opportunities for collaberation especially in windows softwere open source development.
 
 - ✨ New to using git, happy to learn!✨
